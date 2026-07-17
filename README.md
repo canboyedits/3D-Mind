@@ -55,7 +55,7 @@ The project therefore asks a practical research question:
 ## Core contribution: tumor segmentation to browser rendering
 
 <p align="center">
-  <img src="assets/architecture-overview.svg" alt="3D-Mind architecture from MRI preprocessing through nnU-Net segmentation to VTK.js browser rendering" width="100%">
+  <img src="assets/3d-mind.png" alt="3D-Mind architecture from MRI preprocessing through nnU-Net segmentation to VTK.js browser rendering" width="100%">
 </p>
 
 ### 1. MRI input and geometry
@@ -259,5 +259,5 @@ The repository license governs copyright and patent permissions in the supplied 
 <p align="center">
   <strong>3D-Mind</strong><br>
   Brain-tumor segmentation with nnU-Net · Browser visualization with VTK.js<br>
-  Research prototype by Yash Vyas
+  Research prototype by TeamCan
 </p>
